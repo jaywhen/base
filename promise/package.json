@@ -1,0 +1,11 @@
+{
+  "name": "promise",
+  "version": "1.0.0",
+  "main": "promise.js",
+  "scripts": {
+    "test": "promises-aplus-tests test/adapter.js"
+  },
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
